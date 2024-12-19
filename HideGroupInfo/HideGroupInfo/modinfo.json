@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "hidegroupinfo",
+    "name": "HideGroupInfo",
+    "RequiredOnServer": true,
+    "RequiredOnClient": false,
+    "authors": [
+        "SiiMeR"
+    ],
+    "description": "Disables the .group info command for non-admins and player not member of group",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

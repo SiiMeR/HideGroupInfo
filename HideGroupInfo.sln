@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "HideGroupInfo\CakeBuild\CakeBuild.csproj", "{1AE824A9-24AA-4E59-A54A-B2F4B8F60BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HideGroupInfo", "HideGroupInfo\HideGroupInfo\HideGroupInfo.csproj", "{24F1B4F2-B3F8-4DB5-A551-42D1967FFC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE824A9-24AA-4E59-A54A-B2F4B8F60BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE824A9-24AA-4E59-A54A-B2F4B8F60BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE824A9-24AA-4E59-A54A-B2F4B8F60BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE824A9-24AA-4E59-A54A-B2F4B8F60BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F1B4F2-B3F8-4DB5-A551-42D1967FFC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F1B4F2-B3F8-4DB5-A551-42D1967FFC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F1B4F2-B3F8-4DB5-A551-42D1967FFC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F1B4F2-B3F8-4DB5-A551-42D1967FFC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
