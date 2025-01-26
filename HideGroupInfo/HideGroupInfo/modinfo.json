@@ -8,7 +8,7 @@
         "SiiMeR"
     ],
     "description": "Disables the .group info command for non-admins and player not member of group",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "dependencies": {
         "game": ""
     }
